@@ -1,1 +1,1 @@
-var pageEditor = {"setting":{}, "pageAnnos":[[]]};
+var pageEditor = {"setting":{}, "pageAnnos":[[],[],[{"annotype":"com.mobiano.flipbook.pageeditor.TAnnoLink","location":{"x":"0.453950","y":"0.921545","width":"0.196023","height":"0.026961"},"action":{"triggerEventType":"mouseDown","actionType":"com.mobiano.flipbook.pageeditor.TAnnoActionOpenURL","url":"http://www.beyondlimitsfitness.com/","linkTarget":"_blank"}}]]};
